@@ -5,6 +5,7 @@ Welcome SLIIT kitchen
 
 1 :- Rice with chicken
 2 :- Pepsi
+3 :- water
 
 
 
